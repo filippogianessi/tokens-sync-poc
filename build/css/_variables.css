@@ -1,0 +1,37 @@
+
+:root {
+  --sd-global-airbnb-color-primary-10: #ffe0e5;
+  --sd-global-airbnb-color-primary-20: #ffbeca;
+  --sd-global-airbnb-color-primary-30: #ff9dae;
+  --sd-global-airbnb-color-primary-40: #ff7b93;
+  --sd-global-airbnb-color-primary-50: #ff607d;
+  --sd-global-airbnb-color-primary-60: #ff385c;
+  --sd-global-airbnb-color-primary-70: #cc2d4a;
+  --sd-global-airbnb-color-primary-80: #992237;
+  --sd-global-airbnb-color-primary-90: #661625;
+  --sd-global-airbnb-color-primary-100: #330b12;
+  --sd-global-airbnb-color-neutral-0: #ffffff;
+  --sd-global-airbnb-color-neutral-10: #f7f7f7;
+  --sd-global-airbnb-color-neutral-20: #ebebeb;
+  --sd-global-airbnb-color-neutral-30: #dddddd;
+  --sd-global-airbnb-color-neutral-40: #bbbbbb;
+  --sd-global-airbnb-color-neutral-50: #808080;
+  --sd-global-airbnb-color-neutral-60: #717171;
+  --sd-global-airbnb-color-neutral-70: #4a4a4a;
+  --sd-global-airbnb-color-neutral-80: #333333;
+  --sd-global-airbnb-color-neutral-90: #222222;
+  --sd-global-airbnb-color-neutral-100: #000000;
+  --sd-global-space-01: 2;
+  --sd-global-space-02: 4;
+  --sd-global-space-03: 8;
+  --sd-global-space-04: 12;
+  --sd-global-space-05: 16;
+  --sd-global-space-06: 24;
+  --sd-global-space-07: 32;
+  --sd-global-space-08: 40;
+  --sd-global-space-09: 48;
+  --sd-global-space-10: 64;
+  --sd-global-space-11: 80;
+  --sd-global-space-12: 96;
+  --sd-global-space-13: 160;
+}
